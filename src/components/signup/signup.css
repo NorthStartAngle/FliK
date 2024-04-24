@@ -1,0 +1,37 @@
+.title{
+    font-family:  system-ui;
+    font-size: 40px;
+    text-align: left;
+    margin:30px auto 20px auto;
+}
+
+.verified{
+    font-family:  system-ui;
+    font-size: 50px;
+    text-align: center;
+    margin:30px auto 20px auto;
+}
+
+.content
+{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+    row-gap: 20px;
+    position: relative;
+}
+
+span{
+    font-family: Roboto, sans-serif;
+    color:  #a641ed;
+    font-size: 17px;
+    text-align: right;
+}
+
+p{
+    color: #447262;
+    font-size: 20px;
+}

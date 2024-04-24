@@ -1,0 +1,23 @@
+.mainform
+{
+      border-radius: 20px;
+      height: 1200px;
+      width: 1000px;
+      margin:20px auto auto auto;
+}
+.topbar
+{
+      padding-top:2vh;
+      padding-left:2vw;
+      display: flex;
+}
+
+img,input[type="text"]
+{
+      cursor: pointer;
+}
+.twiterx
+{
+      margin-left: auto;
+      margin-right:50%;
+}
